@@ -11,7 +11,7 @@ The project includes a stylish landing page and a fully functional, custom-built
 - **Vite** – Fast bundler and development tool
 - **Tailwind CSS** – Utility-first CSS framework for styling
 
----
+
 
 ## ✨ Key Features
 
@@ -22,4 +22,3 @@ The project includes a stylish landing page and a fully functional, custom-built
 - ⚡ Optimized performance using Vite
 - 🎯 Clean, modular component-based code structure
 
----
